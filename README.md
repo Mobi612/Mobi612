@@ -1,16 +1,20 @@
-## Hi there 👋
+Hello there 👋
 
-<!--
-**Mobi612/Mobi612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, eu sou o Moises!
 
-Here are some ideas to get you started:
+🎓 Estudante de ADS(analise e desenvolvimento de sistemas) no IFSP  
+💻 Aprendendo HTML, Git e GitHub  
+🚀 Em busca de evolução na área de tecnologia  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🧠 Habilidades em desenvolvimento
+- Lógica de programação
+- HTML básico
+- Git e GitHub
+
+---
+
+📫 Contato
+- Email: mb.bisin06@gmail.com
+
